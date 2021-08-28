@@ -4,4 +4,4 @@
  
  ## Overview
 
-The goal of this project is to have in a single place for all possible algorithms and data structures in java
+The goal of this project is to have in a single place for all possible algorithms and data structures problems 
